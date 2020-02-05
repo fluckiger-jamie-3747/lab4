@@ -2,3 +2,4 @@ This lab will take an input (string) from a user and convert it to a list. It wi
 make an acronym.
 
 Put code here
+string= input("enter a pharse")
